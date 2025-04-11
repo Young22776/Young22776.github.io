@@ -53,9 +53,8 @@ footer {
 
 /* 首页样式 */
 .homepage {
-  background: url('homepage_bg.jpg') no-repeat left 50% top;
+  background: url('homepage_bg.jpg') no-repeat center center fixed;
   background-size: cover;
-  background-color: #e6f3ff;
 }
 
 .content-right {
