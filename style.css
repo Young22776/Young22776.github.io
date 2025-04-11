@@ -53,7 +53,7 @@ footer {
 
 /* 首页样式 */
 .homepage {
-    background: url('https://p9-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/c334cc60cbb14603b6048ac51133f063.jpg~tplv-a9rns2rl98-resize-jpeg-v1.image?rk3s=1fb89129&x-expires=1744945458&x-signature=YxRsk1PBM9aQPhJT2UcN8IueuSg%3D') no-repeat center center fixed;
+    background: url('homepage_bg.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -77,19 +77,19 @@ footer {
 
 /* 关于页样式 */
 .about-page {
-    background: url('https://picsum.photos/1920/1080?random=1') no-repeat center center fixed;
+    background: url('homepage_bg.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 /* 深度内容页样式 */
 .deep-stuff-page {
-    background: url('https://picsum.photos/1920/1080?random=2') no-repeat center center fixed;
+    background: url('homepage_bg.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 /* 随想页样式 */
 .random-thoughts-page {
-    background: url('https://picsum.photos/1920/1080?random=3') no-repeat center center fixed;
+    background: url('homepage_bg.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -148,5 +148,5 @@ footer {
 }
 
 /* 字体引入 */
-@import url('https://fonts.googleapis.com/css2?family=Arimo&family=IBM+Plex+Mono:wght@400;500&display=swap');    
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=IBM+Plex+Mono:wght@400;500&display=swap');
     
